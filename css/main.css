@@ -44,12 +44,13 @@
 }
 
 p {
-  color: var(--grayish-blue);
+  color: hsl(229deg 3% 35%);
   line-height: 1.5;
 }
 /* END COMPENANTE */
 /* START BODY */
 body {
+  font-family: "Poppins", sans-serif;
 }
 /* END BODY */
 
