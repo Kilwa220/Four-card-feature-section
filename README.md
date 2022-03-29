@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo](https://kilwa220.github.io/article-preview-component/)
+- Live Site URL: [Demo](https://kilwa220.github.io/Four-card-feature-section/)
 
 ## My process
 
