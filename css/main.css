@@ -154,7 +154,7 @@ main .main-content > .box-dicor:last-of-type::before {
   background-color: var(--pr-blue);
 }
 
-main .box h3 {
+main .box h2 {
   font-size: 20px;
   color: var(--very-dark-blue);
 }
